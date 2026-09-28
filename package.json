@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/deckspan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deck numeric span values, ranges, and human-readable units.",
+  "bin": {
+    "deckspan": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/deckspan.git"
+  },
+  "homepage": "https://theworker02.github.io/deckspan/",
+  "keywords": [
+    "deck",
+    "span",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
